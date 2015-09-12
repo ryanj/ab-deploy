@@ -1,6 +1,6 @@
 {
-  "name": "http-base",
-  "description": "A basic http server example, inspired by Raynos/http-framework",
+  "name": "ab-deploy",
+  "description": "basic http server for load balancing and deployment demos",
   "version": "0.1.0",
   "private": false,
   "engines": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryanj/http-base.git"
+    "url": "https://github.com/ryanj/ab-deploy.git"
   },
   "scripts": {
     "start": "node server.js"
